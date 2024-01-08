@@ -15,10 +15,10 @@ Weatherapp is a modern, Kotlin-based application designed to provide real-time w
 - **IntelliJ IDEA/Android Studio**: Recommended IDE for development.
 
 ### Tehran Weather Forecast
-![Tehran Weather](./assets/photo_1402-10-18_12.49.11.jpeg)
+<img src="./assets/photo_1402-10-18 12.49.11.jpeg" width="250" height="500" />
 
 ### Location Selection
-![Location Selection](./assets/photo_1402-10-18_12.49.14.jpeg)
+<img src="./assets/photo_1402-10-18 12.49.14.jpeg" width="250" height="500" />
 
 ## Getting Started
 

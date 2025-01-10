@@ -22,11 +22,6 @@ Weatherapp is a modern, Kotlin-based application designed to provide real-time w
 
 ## Getting Started
 
-### Prerequisites
-- JDK (Java Development Kit) Version [specify version].
-- Android Studio or IntelliJ IDEA.
-- Basic understanding of Kotlin and Android development.
-
 ### Installation
 1. Clone the repository:
    ```
@@ -38,12 +33,4 @@ Weatherapp is a modern, Kotlin-based application designed to provide real-time w
 
 ## Usage
 After launching the app, follow the on-screen instructions to navigate through different features. Use the settings menu to customize your location and preferences.
-
-## Contributing
-We welcome contributions to the Weatherapp project. Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
 
